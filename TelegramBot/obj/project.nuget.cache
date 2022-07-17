@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "ve1tzXOtGk2svQamwEgX4/jnc5VpfKaRj3u0g6LZRJK7wMr03Y02oTgjRfTsAmSY0FEb5+9AEBqVrhLNRVO1JA==",
+  "success": true,
+  "projectFilePath": "C:\\C#\\Telegram\\Bot\\TelegramBot\\TelegramBot\\TelegramBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rain2\\.nuget\\packages\\microsoft.data.sqlite\\6.0.6\\microsoft.data.sqlite.6.0.6.nupkg.sha512",
+    "C:\\Users\\Rain2\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.6\\microsoft.data.sqlite.core.6.0.6.nupkg.sha512",
+    "C:\\Users\\Rain2\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Rain2\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\Rain2\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\Rain2\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.6\\sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\Rain2\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.6\\sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\Rain2\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Rain2\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\Rain2\\.nuget\\packages\\telegram.bot\\17.0.0\\telegram.bot.17.0.0.nupkg.sha512",
+    "C:\\Users\\Rain2\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

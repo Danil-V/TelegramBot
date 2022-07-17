@@ -1,0 +1,171 @@
+C:\Users\NevRSS\source\repos\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.csproj.AssemblyReference.cache
+C:\Users\NevRSS\source\repos\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NevRSS\source\repos\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.AssemblyInfoInputs.cache
+C:\Users\NevRSS\source\repos\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.AssemblyInfo.cs
+C:\Users\NevRSS\source\repos\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.csproj.CoreCompileInputs.cache
+C:\Users\NevRSS\source\repos\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.exe
+C:\Users\NevRSS\source\repos\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.deps.json
+C:\Users\NevRSS\source\repos\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.runtimeconfig.json
+C:\Users\NevRSS\source\repos\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.dll
+C:\Users\NevRSS\source\repos\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.pdb
+C:\Users\NevRSS\source\repos\TelegramBot\TelegramBot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\NevRSS\source\repos\TelegramBot\TelegramBot\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\NevRSS\source\repos\TelegramBot\TelegramBot\bin\Debug\net6.0\Telegram.Bot.Extensions.Polling.dll
+C:\Users\NevRSS\source\repos\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.csproj.CopyComplete
+C:\Users\NevRSS\source\repos\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.dll
+C:\Users\NevRSS\source\repos\TelegramBot\TelegramBot\obj\Debug\net6.0\refint\TelegramBot.dll
+C:\Users\NevRSS\source\repos\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.pdb
+C:\Users\NevRSS\source\repos\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.genruntimeconfig.cache
+C:\Users\NevRSS\source\repos\TelegramBot\TelegramBot\obj\Debug\net6.0\ref\TelegramBot.dll
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.exe
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.deps.json
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.runtimeconfig.json
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.dll
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.pdb
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\Telegram.Bot.Extensions.Polling.dll
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.csproj.AssemblyReference.cache
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.AssemblyInfoInputs.cache
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.AssemblyInfo.cs
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.csproj.CoreCompileInputs.cache
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.csproj.CopyComplete
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.dll
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\refint\TelegramBot.dll
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.pdb
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.genruntimeconfig.cache
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\ref\TelegramBot.dll
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\NevRSS\Desktop\C#\TelegramBot\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.exe
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.deps.json
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.runtimeconfig.json
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.dll
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.pdb
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\bin\Debug\net6.0\Telegram.Bot.dll
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\bin\Debug\net6.0\Telegram.Bot.Extensions.Polling.dll
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.csproj.AssemblyReference.cache
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.AssemblyInfoInputs.cache
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.AssemblyInfo.cs
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.csproj.CoreCompileInputs.cache
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.csproj.CopyComplete
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.dll
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\obj\Debug\net6.0\refint\TelegramBot.dll
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.pdb
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.genruntimeconfig.cache
+C:\C#\Telegram\Bot\TelegramBot\TelegramBot\obj\Debug\net6.0\ref\TelegramBot.dll
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.exe
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.deps.json
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.runtimeconfig.json
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.dll
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.pdb
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\Telegram.Bot.Extensions.Polling.dll
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.csproj.AssemblyReference.cache
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.AssemblyInfoInputs.cache
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.AssemblyInfo.cs
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.csproj.CoreCompileInputs.cache
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.csproj.CopyComplete
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.dll
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\refint\TelegramBot.dll
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.pdb
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.genruntimeconfig.cache
+C:\Users\NevRSS\Desktop\DZ OTUS\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\ref\TelegramBot.dll
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.exe
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.deps.json
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.runtimeconfig.json
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.dll
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.pdb
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\Telegram.Bot.dll
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\Telegram.Bot.Extensions.Polling.dll
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.csproj.AssemblyReference.cache
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.AssemblyInfoInputs.cache
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.AssemblyInfo.cs
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.csproj.CoreCompileInputs.cache
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.csproj.CopyComplete
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.dll
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\refint\TelegramBot.dll
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.pdb
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.genruntimeconfig.cache
+C:\C#\Домашние задания\OTUS DZ\Проект\TelegramBot\TelegramBot\obj\Debug\net6.0\ref\TelegramBot.dll
